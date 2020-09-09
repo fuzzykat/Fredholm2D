@@ -1,5 +1,4 @@
 #include "FE2DSolver.h"
-#include "GaussQuad.h"
 
 namespace FE2D
 {

@@ -1,0 +1,1 @@
+A C++ library that numerically solves 2D Fredholm integral equations of the second kind
